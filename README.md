@@ -1,5 +1,5 @@
-docker-compose と stack と service と
-====================================
+Single node swarm でお手軽 rolling update
+=========================================
 
 ```
 nginx (global service) -> app (service) -> app container
